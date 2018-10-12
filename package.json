@@ -75,7 +75,6 @@
       {
         "id": "Opensource",
         "aliases": [
-          "maven",
           "java",
           "npm",
           "pom.xml",
