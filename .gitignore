@@ -7,3 +7,4 @@ ca-lsp-server/
 .DS_Store
 *.tar.*
 .history
+target/
