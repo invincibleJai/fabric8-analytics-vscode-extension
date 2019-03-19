@@ -165,7 +165,7 @@ export module ProjectDataProvider {
         `-json >`,
         `"${npmListPath}"`
       ].join(' ');
-      console.log('npm cmd :: ' + cmd);
+      console.log('npm cmd run :: ' + cmd);
       exec(
         cmd,
         { maxBuffer: 1024 * 500 },
